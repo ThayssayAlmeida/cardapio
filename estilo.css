@@ -1,0 +1,30 @@
+body, html{
+    margin-left: ;
+    border: solid 10px rgb(15, 3, 3);
+    background-image: url(Fundo.jpg.jpg);
+    
+}
+
+#destaque{
+    
+    text-align: center;
+    color: black;
+    height: 300px;
+}
+
+.item{
+    width: 20%;
+    border: 10px solid black;
+    float: left;
+    text-align: center; 
+    padding: 2%;
+}
+#produtos{       
+    text-align: justify;
+    clear: both;
+}
+
+footer{    
+    clear: both;
+    text-align: center;
+}
